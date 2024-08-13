@@ -4,8 +4,8 @@
   <img alt="TOTEM logo font" src="/docs/images/TOTEM_logo_bright.svg">
 </picture>
 
-# ZMK CONFIG FOR THE TOTEM SPLIT KEYBOARD
-
+# ZMK CONFIG FOR THE TOTEM SPLIT KEYBOARD eeeeee
+hello
 [Here](https://github.com/GEIGEIGEIST/totem) you can find the hardware files and build guide.\
 [Here](https://github.com/GEIGEIGEIST/qmk-config-totem) you can find the QMK config for the TOTEM.
 
